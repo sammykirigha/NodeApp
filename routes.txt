@@ -1,0 +1,10 @@
+
+
+get => /users - get all users 
+get => /users/:id = get one user with id
+
+post => /users - create a user
+
+put => /users/:id - update user with id
+
+delete => /user/:id - delete user with id
